@@ -11,8 +11,8 @@
 - 👨‍💻 Languages: JavaScript, TypeScript, Java
 - ⚛️ Frameworks: React.js, SpringBoot, Node.js, Nest.js
 - 🛢️ Databases: DynamoDB, Oracle, Postgres
-- ☁️ Cloud: AWS (I'm in a committed relationship with the cloud) ☁️
-- 🛠️ DevOps: Terraform, Docker (I like to build castles in the cloud with containers)
+- ☁️ Cloud: AWS
+- 🛠️ DevOps: Terraform, Docker
 
 📺 When I'm not coding, you'll often find me immersed in the latest Netflix series or diving deep into the endless sea of YouTube content. 🍿🎥
 

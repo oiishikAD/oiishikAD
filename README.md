@@ -4,7 +4,7 @@
 
 💼 Working at [Algodomain Solutions](https://www.algodomain.com)
 
-💻 Full-stack Developer with a passion for turning coffee into code ☕
+💻 Full-stack Developer with a passion for tea ☕
 
 🚀 Here's a bit about my tech universe:
 
@@ -14,6 +14,6 @@
 - ☁️ Cloud: AWS
 - 🛠️ DevOps: Terraform, Docker
 
-📺 When I'm not coding, you'll often find me immersed in the latest Netflix series or diving deep into the endless sea of YouTube content. 🍿🎥
+📺 When I'm not coding, you'll often find me immersed in Netflix or diving deep into the endless sea of YouTube. 🍿🎥
 
 📫 Reach out to me at [oishik.sengupta@algodomain.com](mailto:oishik.sengupta@algodomain.com) or connect on [LinkedIn](https://www.linkedin.com/in/oishiksengupta/)!
